@@ -10,4 +10,5 @@ to run this app:-
 
 NOTE:-
 you must have node install in your pc
+also install node modules yourself as so many files can't be uploaded here
 
